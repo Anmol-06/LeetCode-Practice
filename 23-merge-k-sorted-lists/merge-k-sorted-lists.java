@@ -27,13 +27,16 @@ class Solution {
         return dummy.next;
     }
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==0){
+        if (lists == null || lists.length == 0) {
             return null;
         }
-        ListNode merged=lists[0];
-        for(int i=1;i<lists.length;i++){
-            merged=mergeTwoLists(merged,lists[i]);
+        int interval = 1;
+        while (interval < lists.length) {
+            for (int i = 0; i + interval < lists.length; i = i + interval * 2) {
+                lists[i] = mergeTwoLists(lists[i], lists[i + interval]);
+            }
+            interval *= 2;
         }
-        return merged;
+        return lists[0];
     }
 }
