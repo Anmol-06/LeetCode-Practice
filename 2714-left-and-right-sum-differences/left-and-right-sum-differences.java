@@ -2,8 +2,8 @@ class Solution {
     public int[] leftRightDifference(int[] nums) {
         int[] answers=new int[nums.length];
         int totalSum=0;
-        for(int i=0;i<nums.length;i++){
-            totalSum+=nums[i];
+        for(int num : nums){
+            totalSum+=num;
         }
         int currLeft=0;
         for(int i=0;i<nums.length;i++){
