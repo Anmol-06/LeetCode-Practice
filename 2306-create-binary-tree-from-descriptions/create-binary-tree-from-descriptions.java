@@ -15,39 +15,26 @@
  */
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
-        // Map to store value -> actual TreeNode object
-        Map<Integer, TreeNode> nodeMap = new HashMap<>();
-        // Set to track every node that is a child
-        Set<Integer> children = new HashSet<>();
-
-        // Pass 1: Create nodes and build relationships
+        TreeNode[] map = new TreeNode[100001];
+        boolean[] isChild = new boolean[100001];
         for (int[] d : descriptions) {
             int parent = d[0];
             int child = d[1];
             int isLeft = d[2];
-
-            // Create nodes if they don't exist yet
-            nodeMap.putIfAbsent(parent, new TreeNode(parent));
-            nodeMap.putIfAbsent(child, new TreeNode(child));
-
-            // Link them
+            if (map[parent] == null) map[parent] = new TreeNode(parent);
+            if (map[child] == null) map[child] = new TreeNode(child);
             if (isLeft == 1) {
-                nodeMap.get(parent).left = nodeMap.get(child);
+                map[parent].left = map[child];
             } else {
-                nodeMap.get(parent).right = nodeMap.get(child);
+                map[parent].right = map[child];
             }
-
-            // Mark as a child
-            children.add(child);
+            isChild[child] = true;
         }
-
-        // Pass 2: Find the root (the only node in the map not in the children set)
         for (int[] d : descriptions) {
-            if (!children.contains(d[0])) {
-                return nodeMap.get(d[0]);
+            if (!isChild[d[0]]) {
+                return map[d[0]];
             }
         }
-
         return null;
     }
 }
