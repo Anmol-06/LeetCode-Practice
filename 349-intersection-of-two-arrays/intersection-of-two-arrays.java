@@ -9,10 +9,11 @@ class Solution {
             hashTable.put(i,true);
         }
         for(int j : nums2){
-            if(hashTable.containsKey(j)&&!intersection.contains(j))
+            if(hashTable.containsKey(j)){
                 intersection.add(j);
+                hashTable.remove(j);
+            }
         }
-
         int[] resIntersection=intersection.stream().mapToInt(Integer::intValue).toArray();
         return resIntersection;
     }
