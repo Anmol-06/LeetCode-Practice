@@ -13,8 +13,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
