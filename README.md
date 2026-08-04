@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [4107-find-missing-elements](https://github.com/Anmol-06/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Hash Table
+|  |
+| ------- |
+| [4107-find-missing-elements](https://github.com/Anmol-06/LeetCode-Practice/tree/master/4107-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [4107-find-missing-elements](https://github.com/Anmol-06/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 <!---LeetCode Topics End-->
