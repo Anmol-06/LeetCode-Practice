@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0027-remove-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4107-find-missing-elements](https://github.com/Anmol-06/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
