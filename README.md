@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0069-sqrtx](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
