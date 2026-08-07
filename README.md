@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0066-plus-one) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4107-find-missing-elements](https://github.com/Anmol-06/LeetCode-Practice/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anmol-06/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Anmol-06/LeetCode-Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anmol-06/LeetCode-Practice/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
